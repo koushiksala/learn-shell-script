@@ -1,2 +1,2 @@
 ls
-dnf installed list
+dnf list installed
