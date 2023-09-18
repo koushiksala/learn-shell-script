@@ -1,4 +1,4 @@
-fruit=$1
+#fruit=$1
 
 if [ $fruit == "apple" ]; then
   echo apple price is 1$
